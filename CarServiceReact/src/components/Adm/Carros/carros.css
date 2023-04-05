@@ -1,0 +1,44 @@
+.carrosPainel{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+.lineCarPainel{
+    width: 100%;
+    text-align: center;
+}
+.icoActionCar{
+    cursor: pointer;
+    margin-right: 20px;
+}
+.icoPage{
+    cursor: pointer;
+}
+.editCarInp{
+    border: none;
+    border-bottom: 1px solid #ccc;
+    margin: 10px;
+    font-size: 1.2rem;
+}
+.btnSaveEdit{
+    border: none;
+    color: white;
+    font-size: 1rem;
+    background-color: #007bff;
+    border-radius: 10px;
+    padding: 10px;
+}
+.Model2{
+    margin-bottom: 20px;
+}
+.btnAddCar{
+    background-color: #007bff;
+    border: none;
+    padding: 12px;
+    border-radius: 10px;
+    margin: 5px;
+    color: white;
+    cursor: pointer;
+}
